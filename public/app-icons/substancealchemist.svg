@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Substance-Alchemist" serif:id="Substance Alchemist">
+        <g transform="matrix(1.40761,0,0,1.40761,1.50333,-0.101506)">
+            <path d="M-1.068,34.172C-1.068,59.082 7.332,68.273 33.033,68.273C58.734,68.273 67.133,58.906 67.133,34.172C67.133,9.439 58.646,0.072 33.033,0.072C7.419,0.072 -1.068,9.263 -1.068,34.172Z" style="fill:rgb(26,26,26);"/>
+        </g>
+        <g transform="matrix(0.356612,0,0,0.356612,-23.3204,2.6186)">
+            <path d="M242.8,100.4L201.5,28.8C200.8,27.7 199.2,27.7 198.6,28.8L157.3,100.4L200,75.7L242.8,100.4ZM145.6,141.7L170.8,149.7L170.8,155.7L200.1,172.6L222,160L145.4,135.8L145.4,120.9L103.5,193.5C102.8,194.6 103.6,196.1 104.9,196.1L189.8,196.1L145.3,170.4L145.3,141.7L145.6,141.7ZM296.5,193.3L254.6,120.7L254.6,135.6L229.5,127.6L229.5,121.7L200.2,104.8L178.7,117.3L254.7,141.7L254.7,170.2L210.2,195.9L295.1,195.9C296.3,195.9 297.2,194.5 296.5,193.3Z" style="fill:rgb(243,165,0);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

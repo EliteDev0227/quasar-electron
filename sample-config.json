@@ -1,0 +1,266 @@
+[
+	{
+        "group": "Mari",
+        "name": "Mari",
+        "category": "Apps",
+        "icon": "mari.svg",
+        "paths": [
+            {   
+                "path": "C:/Windows/System32/notepad.exe",
+                "args": "C:/Users/jmartini/Desktop/helloWorld.txt" 
+            }
+        ]
+    },
+    {
+        "group": "3ds Max",
+        "name": "3ds Max 2018",
+        "category": "Apps",
+        "icon": "max.svg",
+        "status": "BETA",
+        "paths": [
+            {   
+                "path": "PYTHON",
+                "args": "C:/Users/jmartini/Desktop/helloWorld.py" 
+            },
+            {   
+                "path": "C:/Program Files/Autodesk/3ds Max 2018/3dsmax.exe",
+            }
+        ]
+    },
+    {
+        "group": "3ds Max",
+        "name": "3ds Max 2019",
+        "category": "Apps",
+        "icon": "max.svg",
+        "status": "BETA",
+        "paths": [
+            {   
+                "path": "PYTHON",
+                "args": "C:/Users/jmartini/Desktop/helloWorld.py" 
+            },
+            {   
+                "path": "C:/Program Files/Autodesk/3ds Max 2019/3dsmax.exe",
+            }
+        ]
+    },
+    {
+        "group": "3ds Max",
+        "name": "3ds Max 2020",
+        "category": "Apps",
+        "icon": "max.svg",
+        "status": "BETA",
+        "paths": [
+            {   
+                "path": "PYTHON",
+                "args": "C:/Users/jmartini/Desktop/helloWorld.py" 
+            },
+            {   
+                "path": "C:/Program Files/Autodesk/3ds Max 2020/3dsmax.exe",
+            }
+        ]
+    },
+    {
+        "group": "Affinity Publisher",
+        "name": "Affinity Publisher",
+        "category": "Tools",
+        "icon": "AffinityPublisher.svg",
+        "paths": [
+            {   
+                "path": "https://affinity.serif.com/en-us/publisher/"
+            }
+        ]
+    },
+    {
+        "group": "Affinity Designer",
+        "name": "Affinity Designer",
+        "category": "Tools",
+        "icon": "AffinityDesigner.svg",
+        "paths": [
+            {   
+                "path": "https://affinity.serif.com/en-us/designer/"
+            }
+        ]
+    },
+    {
+        "group": "Affinity Photo",
+        "name": "Affinity Photo",
+        "category": "Tools",
+        "icon": "AffinityPhoto.svg",
+        "paths": [
+            {   
+                "path": "https://affinity.serif.com/en-us/photo/"
+            }
+        ]
+    },
+    {
+        "group": "Fusion",
+        "name": "Fusion 2016",
+        "category": "Misc",
+        "icon": "Fusion.svg",
+        "paths": [
+            {   
+                "path": "PYTHON",
+                "args": "C:/Users/jmartini/Desktop/helloWorld.py" 
+            },
+            {   
+                "path": "C:/Program Files/Fusion/Fusion.exe",
+            }
+        ]
+    },
+    {
+        "group": "Fusion",
+        "name": "Fusion 2018",
+        "category": "Misc",
+        "icon": "Fusion.svg",
+        "paths": [
+            {   
+                "path": "PYTHON",
+                "args": "C:/Users/jmartini/Desktop/helloWorld.py" 
+            },
+            {   
+                "path": "C:/Program Files/Fusion/Fusion.exe",
+            }
+        ]
+    },
+    {
+        "group": "Fusion",
+        "name": "Fusion 2019",
+        "category": "Misc",
+        "icon": "Fusion.svg",
+        "paths": [
+            {   
+                "path": "PYTHON",
+                "args": "C:/Users/jmartini/Desktop/helloWorld.py" 
+            },
+            {   
+                "path": "C:/Program Files/Fusion/Fusion.exe",
+            }
+        ]
+    },
+    {
+        "group": "Python",
+        "name": "Python",
+        "category": "Tools",
+        "icon": "python.svg",
+        "paths": [
+            {   
+                "args": "C:/Users/jmartini/Desktop/helloWorld.py" 
+            }
+        ]
+    },
+    {
+        "group": "Notepad",
+        "name": "Notepad",
+        "category": "Tools",
+        "icon": "notepad.svg",
+        "paths": [
+            {   
+                "args": "C:/Windows/System32/notepad.exe", 
+            }
+        ]
+    },
+    {
+        "group": "Maya",
+        "name": "Maya 2016",
+        "category": "Apps",
+        "icon": "maya.svg",
+        "description": "Autodesk Maya",
+        "paths": [
+            {   
+                "path": "C:/Program Files/Autodesk/Maya 2016/3dsmax.exe",
+            }
+        ]
+    },
+    {
+        "group": "Maya",
+        "name": "Maya 2018",
+        "category": "Apps",
+        "icon": "maya.svg",
+        "description": "Autodesk Maya",
+        "paths": [
+            {   
+                "path": "C:/Program Files/Autodesk/Maya 2018/3dsmax.exe",
+            }
+        ]
+    },
+    {
+        "group": "Maya",
+        "name": "Maya 2019",
+        "category": "Apps",
+        "icon": "maya.svg",
+        "description": "Autodesk Maya",
+        "paths": [
+            {   
+                "path": "C:/Program Files/Autodesk/Maya 2019/3dsmax.exe",
+            }
+        ]
+    },
+    {
+        "group": "Maya",
+        "name": "Maya 2020",
+        "category": "Apps",
+        "icon": "maya.svg",
+        "status": "beta",
+        "description": "Autodesk Maya",
+        "paths": [
+            {   
+                "path": "C:/Program Files/Autodesk/Maya 2020/3dsmax.exe",
+            }
+        ]
+    },
+    {
+        "group": "Houdini",
+        "name": "Houdini 12 FX",
+        "category": "Apps",
+        "icon": "houdini.svg",
+        "paths": [
+            {   
+                "path": "C:/Program Files/SideEffects/Houdini12/HoudiniFX.exe",
+            }
+        ]
+    },
+    {
+        "group": "Houdini",
+        "name": "Houdini 12 Core",
+        "category": "Apps",
+        "icon": "houdini.svg",
+        "paths": [
+            {   
+                "path": "C:/Program Files/SideEffects/Houdini12/HoudiniCore.exe",
+            }
+        ]
+    },
+    {
+        "group": "Shotgun",
+        "name": "Shotgun",
+        "category": "Studio",
+        "icon": "shotgun.svg",
+        "paths": [
+            {   
+                "path": "https://www.autodesk.com/solutions/creative-project-management",
+            }
+        ]
+    },
+    {
+        "group": "Speed Tree",
+        "name": "Speed Tree",
+        "category": "Apps",
+        "icon": "speedtree.svg",
+        "paths": [
+            {   
+                "path": "https://store.speedtree.com/",
+            }
+        ]
+    },
+    {
+        "group": "Tickets",
+        "name": "Tickets",
+        "category": "Studio",
+        "icon": "tickets.svg",
+        "paths": [
+            {   
+                "path": "C:/Program Files/tools/tickets.py",
+            }
+        ]
+    }
+]

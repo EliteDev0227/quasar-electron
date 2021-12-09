@@ -1,0 +1,359 @@
+[
+  {
+    "category": "Apps",
+    "icon": "mari.svg",
+    "uid": "mari",
+    "platforms": ["darwin", "win", "linux"],
+    "profiles": [
+      {
+        "description": "This is a simple profile",
+        "status": "Beta",
+        "users": ["jmartini"],
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          },
+          {
+            "path": "C:/Windows/System32/notepad.exe",
+            "args": "C:/Users/jmartini/Desktop/helloWorld.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "substancedesigner.svg",
+    "uid": "substancedesigner",
+    "profiles": [
+      {
+        "name": "Substance Designer",
+        "description": "This is a simple profile",
+        "status": "Beta",
+        "users": [],
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "substancepainter.svg",
+    "uid": "substancepainter",
+    "profiles": [
+      {
+        "name": "Substance Painter",
+        "description": "This is a simple profile",
+        "status": "Beta",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Tools",
+    "icon": "affinityphoto.svg",
+    "uid": "affinityphoto",
+    "profiles": [
+      {
+        "name": "Affinity Photo",
+        "description": "This is a simple profile",
+        "status": "Beta",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Tools",
+    "icon": "affinitydesigner.svg",
+    "uid": "affinitydesigner",
+    "profiles": [
+      {
+        "name": "Affinity Designer",
+        "description": "This is a simple profile",
+        "status": "Beta",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Tools",
+    "icon": "affinitypublisher.svg",
+    "uid": "affinitypublisher",
+    "profiles": [
+      {
+        "name": "Affinity Publisher",
+        "description": "This is a simple profile",
+        "status": "Beta",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Studio",
+    "icon": "nuke.svg",
+    "uid": "nuke",
+    "profiles": [
+      {
+        "name": "Nuke",
+        "status": "Beta",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "max.svg",
+    "uid": "max",
+    "profiles": [
+      {
+        "name": "3ds Max 2018",
+        "description": "This is a simple profile",
+        "status": "Default",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      },
+      {
+        "name": "3ds Max 2020",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      },
+      {
+        "name": "3ds Max 2021",
+        "description": "This is a simple profile",
+        "status": "Beta",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "maya.svg",
+    "uid": "maya",
+    "profiles": [
+      {
+        "name": "Maya 2018",
+        "description": "This is a simple profile",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      },
+      {
+        "name": "Maya 2020",
+        "description": "This is a simple profile",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      },
+      {
+        "name": "Maya 2021",
+        "description": "This is a simple profile",
+        "status": "Beta",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Studio",
+    "icon": "notepad.svg",
+    "uid": "notepad",
+    "profiles": [
+      {
+        "name": "Notepad",
+        "status": "Beta",
+        "users": ["jmartini"],
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Studio",
+    "icon": "shotgun.svg",
+    "uid": "shotgun",
+    "profiles": [
+      {
+        "name": "Shotgun",
+        "description": "This is a simple profile",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "blender.svg",
+    "uid": "Blender",
+    "profiles": [
+      {
+        "name": "Blender",
+        "description": "This is a simple profile",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe",
+            "args": "helloworld.py"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "Fusion.svg",
+    "uid": "Fusion",
+    "profiles": [
+      {
+        "name": "Fusion",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "houdini.svg",
+    "uid": "Houdini",
+    "profiles": [
+      {
+        "name": "Houdini 12 FX",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe"
+          }
+        ]
+      },
+      {
+        "name": "Houdini 12 Core",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Tools",
+    "icon": "speedtree.svg",
+    "uid": "SpreeTree",
+    "profiles": [
+      {
+        "name": "SpreeTree",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "substancealchemist.svg",
+    "uid": "substancealchemist",
+    "profiles": [
+      {
+        "name": "Substance Alchemist",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "substancesource.svg",
+    "uid": "substancesource",
+    "profiles": [
+      {
+        "name": "Substance Source",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apps",
+    "icon": "zbrush.svg",
+    "uid": "zbrush",
+    "profiles": [
+      {
+        "name": "Zbrush",
+        "commands": [
+          {
+            "path": "C:/Python27/python.exe"
+          }
+        ]
+      }
+    ]
+  }
+]
